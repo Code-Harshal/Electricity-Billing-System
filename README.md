@@ -1,0 +1,2 @@
+# Electricity-Billing-System
+Electricity Billing System is desktop based application for a particular Electricity Distribution company. The aim of our project is to develop a system that is meant to partially computerize the work performed in the Electricity Board like generating monthly electricity bill, record of consuming units of energy, store record of the customer and previous unpaid record.
